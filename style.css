@@ -1,0 +1,29 @@
+.purchasebtn {
+  width: 25%;
+  height: 20%;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+  background-color: khaki;
+  border-radius: 5px;
+}
+.balanceEntry {
+  height: 20%;
+  width: 75%;
+  font-size: 30px;
+  font-family: sans-serif;
+  border-radius: 5px;
+}
+.shopingForm {
+  padding: 25px;
+  background-color: lightcyan;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 20vw;
+  height: 20vh;
+}
+.title {
+  font-family: sans-serif;
+  margin-inline: auto;
+}
